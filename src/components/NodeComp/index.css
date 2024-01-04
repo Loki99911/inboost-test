@@ -1,0 +1,15 @@
+.main-wrapper {
+  background-color: #d1e7dd;
+  width: 241px;
+  height: 141px;
+  border-radius: 4px;
+  padding-top: 19px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 6px;
+}
+.empty-block {
+  height: 72px;
+  border-radius: 4px;
+  background-color: white;
+}
